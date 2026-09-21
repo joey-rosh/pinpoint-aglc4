@@ -1,0 +1,5 @@
+# Used only when this repository is published with GitHub Pages.
+# Keeps developer files off the public site.
+exclude:
+  - tests
+  - README.md
